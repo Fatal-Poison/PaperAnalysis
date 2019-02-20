@@ -55,6 +55,9 @@ public class KnowledgeController {
             e.printStackTrace();
         }
 
+
+
+
         return "redirect:/liKnowledgeManager";
     }
 

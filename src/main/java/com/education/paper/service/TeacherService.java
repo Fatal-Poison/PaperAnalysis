@@ -8,7 +8,9 @@ import javax.servlet.http.HttpServletRequest;
 
 public interface TeacherService {
 
-    /*教师登录*/
+    /**
+     * 教师登录
+     * */
     public Teacher login(String username,String password) throws Exception;
     //public String signup(Teacher teacher) throws Exception;
     /*教师注册*/
