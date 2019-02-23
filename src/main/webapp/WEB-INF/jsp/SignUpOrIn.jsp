@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>高校学生试卷分析系统</title>
+    <title>学生成绩录入分析系统</title>
     <link rel="stylesheet" href="../../css/SignUpOrIn.css">
     <link rel="stylesheet" href="../../css/Reset.css">
 </head>
@@ -16,7 +16,7 @@
 </header>
 <div id = "banner"><!--内容-->
     <div class="inner">
-        <h1>高校学生试卷分析系统</h1>
+        <h1>学生成绩录入分析系统</h1>
         <div class="login">
             <div class="switch_header">
                 <div id="login_switch">

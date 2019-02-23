@@ -10,7 +10,10 @@ nav{
     z-index: 10000;*/
 }
 #banner {
-    background: dodgerblue;
+    /*background: dodgerblue;*/
+    background-image: url("../imgs/main_background.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
     /*background: #112F55;*/
     height: 550px;
 }

@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE-edge,chrome=1,charset=UTF-8" >
     <!--页面宽度适应浏览器宽度，且不允许客户缩放-->
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>高校学生试卷分析系统</title>
+    <title>学生成绩录入分析系统</title>
     <link rel="stylesheet" href="../../css/AllOptions.css">
     <link rel="stylesheet" href="../../css/Reset.css">
     <!--下拉菜单icon http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css-->
@@ -83,7 +83,7 @@
                     <%
                }
              %>
-                ！欢迎使用高校学生试卷分析系统</h3>
+                ！欢迎使用学生成绩录入分析系统</h3>
             <%--<%@ include file="UserManager.jsp"%>--%>
             <%-- <%@ include file="PaperManager.jsp"%>--%>
             <%-- <%@ include file="AnalysisMessage.jsp"%>--%>
