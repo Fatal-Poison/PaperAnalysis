@@ -41,9 +41,9 @@
 <div>
     <nav><!--页头-->
         <ul>
-            <li><a href="/signUpOrIn">首页</a></li>
+            <li><a href="/allOptions">首页</a></li>
             <li><a href="#">系统说明</a></li>
-            <li class="logo"><a href="#">退出</a></li>
+            <li class="logo"><a href="/signUpOrIn">退出登陆</a></li>
             <li class="logo"><a href="#">${sessionScope.currentTeacher.username}</a></li>
         </ul>
     </nav>

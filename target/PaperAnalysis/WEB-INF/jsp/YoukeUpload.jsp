@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE-edge,chrome=1" >
     <!--页面宽度适应浏览器宽度，且不允许客户缩放-->
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>高校学生试卷分析系统</title>
+    <title>学生成绩录入分析系统</title>
     <link rel="stylesheet" href="../../css/YoukeUpload.css">
     <link rel="stylesheet" href="../../css/Reset.css">
     <script type="text/javascript" src="../../js/jquery-3.3.1.js"></script>
@@ -22,7 +22,7 @@
 <header><!--页头-->
     <nav>
         <ul>
-            <li><a href="/signUpOrIn">首页</a></li>
+            <li><a href="/allOptions">首页</a></li>
             <li><a href="#">系统说明</a></li>
             <li class="youke_head"><a href="/signUpOrIn">登录</a></li>
             <li class="youke_head"><a href="#">游客只支持生成试卷分析报告</a></li>

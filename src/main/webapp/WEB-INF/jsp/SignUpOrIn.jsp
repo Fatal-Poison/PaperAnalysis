@@ -21,7 +21,7 @@
             <div class="switch_header">
                 <div id="login_switch">
                     <a id="switch_btn_login" href="#1">登录</a>
-                    <a id="switch_btn_sign" href="#2">注册</a>
+                    <a id="switch_btn_sign" href="#2">注册并登陆</a>
                     <div id="switch_bottom"></div>
                 </div>
             </div>

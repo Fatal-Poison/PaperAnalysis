@@ -59,7 +59,7 @@ nav ul li.logo{
     height: 1000px;
     float: right;
     right: 0;
-    background: antiquewhite;
+    background: rgb(174, 177, 255);
 }
 
 /* 左侧菜单栏 */
@@ -198,7 +198,7 @@ nav ul li.logo{
     height: 600px;
     float: right;
     right: 0;
-    background: antiquewhite;
+    background: rgb(174, 177, 255);
 }
 .title{
     color: #333333;

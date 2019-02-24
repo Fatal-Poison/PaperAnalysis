@@ -69,7 +69,7 @@ nav ul li.logo{
     border-collapse: collapse;
 }
 .content-show-jisuan table th{
-    background: #FFE4B5;
+    background: #9198ff;
 }
 .content-show-jisuan table th,td{
     padding: 10px 10px;
@@ -93,7 +93,7 @@ nav ul li.logo{
     border-collapse: collapse;
 }
 .content-show-score table th{
-    background: #FFE4B5;
+    background: #9198ff;
     border-bottom: 1px solid #FF8C00;
 }
 .content-show-score table th,td{
@@ -106,7 +106,7 @@ nav ul li.logo{
     text-align: center;
 }
 .content-show-score table .score-title{
-    background: #FFD39B;
+    background: #8D8BFF;
     border: 2px solid antiquewhite;
 }
 .content-show-picture{

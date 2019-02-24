@@ -59,7 +59,7 @@ nav ul li.logo{
     min-height: 600px;
     float: right;
     right: 0;
-    background: antiquewhite;
+    background: rgb(174, 177, 255);
 }
 /* 左侧菜单栏 */
 .mymenu{
@@ -216,7 +216,7 @@ nav ul li.logo{
     border-collapse: collapse;
 }
 .content-show-jisuan table th{
-    background: #FFE4B5;
+    background: #9198ff;
     min-width: 160px;
     border-bottom: 1px solid #FF8C00;
 }

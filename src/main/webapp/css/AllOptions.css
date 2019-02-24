@@ -56,10 +56,13 @@ nav ul li.logo{
 }
 .right{
     width: 84.5%;
-    height: 1000px;
+    height: 800px;
     float: right;
     right: 0;
-    background: antiquewhite;
+    /*background: rgb(174, 177, 255);*/
+    background-image: url("../imgs/paopao.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 /* 左侧菜单栏 */
@@ -164,5 +167,6 @@ nav ul li.logo{
     background-color: #428bca;
 }*/
 .hello{
-    margin-top: 70px;
+    margin-top: 180px;
+    font-size: 2em;
 }

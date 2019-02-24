@@ -22,7 +22,7 @@
 <header><!--页头-->
     <nav>
         <ul>
-            <li><a href="/signUpOrIn">首页</a></li>
+            <li><a href="/allOptions">首页</a></li>
             <li><a href="#">系统说明</a></li>
             <li class="youke_head"><a href="/signUpOrIn">登录</a></li>
             <li class="youke_head"><a href="#">游客只支持生成试卷分析报告</a></li>

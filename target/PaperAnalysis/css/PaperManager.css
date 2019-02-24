@@ -54,13 +54,13 @@ nav ul li.logo{
     box-shadow: 0 10px 40px #333;
     position: fixed;
 }
-/*.right{
+.right{
     width: 84.5%;
     height: 1000px;
     float: right;
     right: 0;
-    background: antiquewhite;
-}*/
+    background: rgb(174, 177, 255);
+}
 
 /* 左侧菜单栏 */
 .mymenu{
@@ -157,7 +157,7 @@ nav ul li.logo{
     min-height: 600px;
     float: right;
     right: 0;
-    background: white;
+    background: rgb(174, 177, 255);
 }
 .title{
     color: #333333;

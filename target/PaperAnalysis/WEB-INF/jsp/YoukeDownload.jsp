@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>高校学生试卷分析系统</title>
+    <title>学生成绩录入分析系统</title>
     <link rel="stylesheet" href="../../css/Reset.css">
     <link rel="stylesheet" href="../../css/YoukeDownload.css">
     <script type="text/javascript" src="../../js/echarts.min.js"></script>
